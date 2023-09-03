@@ -35,7 +35,7 @@ python latticeboltzmann.py
 4. [Smoothed-Particle-Hydrodynamics](https://philip-mocz.medium.com/create-your-own-smoothed-particle-hydrodynamics-simulation-with-python-76e1cec505f1)
 
 ```
-python latticeboltzmann.py
+python sph.py
 ```
 
 ![SPH Simulation](./sph.png)
