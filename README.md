@@ -5,7 +5,7 @@ Comparison of various numerical methods for computational fluid dynamics. You ar
 
 ### Philip Mocz (2023),  [@PMocz](https://twitter.com/PMocz) 👈 Follow me for more!
 
-Simulate the compressible isothermal Euler equations with:
+Simulate the isothermal compressible Euler equations with:
 
 1. [Finite Volume Method](https://levelup.gitconnected.com/create-your-own-finite-volume-fluid-simulation-with-python-8f9eab0b8305)
 
