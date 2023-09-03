@@ -1,5 +1,5 @@
 # cfd-comparison-python
-Comparison of Different Numerical Methods for Computational Fluid Dynamics
+Comparison of various numerical methods for computational fluid dynamics. You are encouraged to add your own or improve the schemes below!
 
 ## Create Your Own Computational Fluid Dynamics Simulations (With Python)
 
