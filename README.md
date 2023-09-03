@@ -3,7 +3,7 @@ Comparison of various numerical methods for computational fluid dynamics. You ar
 
 ## Create Your Own Computational Fluid Dynamics Simulations (With Python)
 
-### Philip Mocz (2023),  [@PMocz](https://twitter.com/PMocz)
+### Philip Mocz (2023),  [@PMocz](https://twitter.com/PMocz) 👈 Follow me for more!
 
 Simulate the compressible isothermal Euler equations with:
 
